@@ -20,6 +20,7 @@ export default function App() {
     document.title = 'Counting potential earth HAZARDS…';
 
     return (
+      
       <p>
         Getting data from NASA right now to check whether something from space
         is going to hit us. One moment…
